@@ -1,0 +1,45 @@
+body {
+  background-color: #092B40;
+  font-family: 'Inconsolata';
+}
+
+.heading {
+  color: #ffffff;
+  padding-top: 50px;
+  font-size:42px;
+}
+.content a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.results {
+  font-size: 20px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 5px 10px 5px 10px;
+  width: 75%;
+  color:#ffffff;
+  border: 1px solid #A4D0EF;
+  background-color:#354D67;
+}
+
+.text {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+input[type=text] {
+  width: 260px;
+  border: 1px solid #AAA;
+  padding-right: -35px;
+  height: 22px;
+  font-size: .8em;
+  padding-left: 2px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
